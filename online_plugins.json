@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "file_name": "wikipedia_search.json",
+      "download_url": "https://raw.githubusercontent.com/arturmoiseyev939-lab/JARVIS_ONLINE/main/plugins/wikipedia_search.json"
+    }
+  ]
+}
