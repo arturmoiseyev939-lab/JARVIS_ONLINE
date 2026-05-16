@@ -1,0 +1,11 @@
+{
+  "plugin_name": "Запуск Телеграма",
+  "required_libraries": [], 
+  "commands": [
+    {
+      "keywords": ["открой телеграм", "включи телегу", "запусти телеграм"],
+      "type": "os_system",
+      "action": "start telegram://"
+    }
+  ]
+}
