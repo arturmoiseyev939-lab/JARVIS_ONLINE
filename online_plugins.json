@@ -1,3 +1,8 @@
 {
-  "plugins": []
+  "plugins": [
+    {
+      "file_name": "telegram.json",
+      "download_url": "https://raw.githubusercontent.com/arturmoiseyev939-lab/JARVIS_ONLINE/main/plugins/telegram.json"
+    }
+  ]
 }
